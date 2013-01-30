@@ -21,3 +21,5 @@ Usage
 
 Screenshots 
 -----------
+![jshint.py screenshot](https://raw.github.com/michalliu/jshint.py/master/screenshot/command.png)
+![jshint.py screenshot](https://raw.github.com/michalliu/jshint.py/master/screenshot/statistics.png)
