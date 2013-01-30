@@ -1,0 +1,9 @@
+body{font-size:12px;font-family:Microsoft YaHei;}
+code{display:block;font-family:Consolas;font-size:12px;word-wrap:break-word;word-break:break-all;background:#eee;padding:10px;}
+.red{color:red;}
+.green{color:green;}
+section{display:block;width:50%;}
+.center{text-align:center;}
+#file_list_table{width:100%;border:1px solid #eee;border-collapse:collapse;}
+#file_list_table thead td{text-align:center;}
+#error_list{position:fixed;right:0;top:0;width:50%;height:100%;overflow:scroll;}
